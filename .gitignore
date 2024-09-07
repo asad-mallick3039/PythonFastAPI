@@ -1,0 +1,4 @@
+__pycache__
+venv/
+.env
+# tells git which files from repository to not be uploaded.
